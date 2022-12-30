@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions .
 - 🎓 &nbsp; B.E in Electronics and communication from Vivekananda College of Engineering and Technology Puttur.
-- 💼 &nbsp; Working as a Software Engineer at Stridefuture Technologies Pvt Ltd.
+- 💼 &nbsp; Working as a Software Engineer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
